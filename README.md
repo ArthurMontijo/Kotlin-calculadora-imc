@@ -1,4 +1,4 @@
-# Calculadora de IMC
+# Kotlin-calculadora-imc
 
 ## Descrição
 Aplicativo Android que calcula o Índice de Massa Corporal (IMC) com base no peso e na altura informados pelo usuário.
@@ -23,4 +23,14 @@ Aplicativo Android que calcula o Índice de Massa Corporal (IMC) com base no pes
 5. Clique em **Calcular** para visualizar o IMC ou em **Arredondar** para arredondar o resultado para cima.
 
 ## Autor
-Arthur Montijo
+**Arthur Vieira Montijo**
+
+### Curso
+
+**LABORATÓRIO DE PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS (LPDM)**
+
+### Módulo
+
+**3º Módulo**
+
+### Professor
