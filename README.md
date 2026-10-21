@@ -34,3 +34,4 @@ Aplicativo Android que calcula o Índice de Massa Corporal (IMC) com base no pes
 **3º Módulo**
 
 ### Professor
+**Rodrigo de Lima Cunha
