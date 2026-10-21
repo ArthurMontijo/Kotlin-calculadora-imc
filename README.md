@@ -5,7 +5,7 @@ Aplicativo Android que calcula o Índice de Massa Corporal (IMC) com base no pes
 
 ## Tecnologias utilizadas
 - Kotlin
-- Android Studio
+- Android Studio  25.0.3
 - Jetpack Compose
 
 ## Funcionalidades
